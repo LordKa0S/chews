@@ -8,7 +8,7 @@
       #(Optional: Activate your virtualenv / venv)
       pip3 install -U -r requirements.txt
 
-      python chews.py
+      python3 chews.py
 
 ## Modification
 * Change the value of `site` variable in the `main` function to change the preferred news source.
